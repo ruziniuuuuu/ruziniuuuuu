@@ -25,11 +25,18 @@ I am **CChenyu**, currently a master student (MSc Robotics :robot:) in National 
 - :zap: Fun fact: I love playing football :soccer:, and I am a 10-year fan of Messi :goat:.
 
 ---
-<p align="center">
-  <a href="">
-    <img height=120 align="center" src="https://github-readme-stats.vercel.app/api?username=ruziniuuuuu&show_icons=true&theme=radical" />
-  </a>
-  <a href="">
-    <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruziniuuuuu&layout=compact&langs_count=8&card_width=320&theme=radical" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="">
+        <img height="140" src="https://github-readme-stats.vercel.app/api?username=ruziniuuuuu&show_icons=true&theme=radical" />
+      </a>
+    </td>
+    <td>
+      <a href="">
+        <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruziniuuuuu&layout=compact&langs_count=8&card_width=320&theme=radical" />
+      </a>
+    </td>
+  </tr>
+</table>
+
