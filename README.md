@@ -22,9 +22,9 @@ I am **CChenyu**, currently a master student (MSc Robotics :robot:) in National 
 - :cow: CChenyu's Homepage: [https://ruziniuuuuu.github.io/](https://ruziniuuuuu.github.io/)
 - :mailbox: How to reach me: [ruziniuuuuu.gmail.com](mailto:ruziniuuuuu.gmail.com)
 - :speech_balloon: Ask me about anything, I am happy to help :smile:.
-- :zap: Fun fact: I love playing football :soccer:, and I am a 10-year fan of Messi :goat:.
+- :zap: Fun fact: 10-year football :soccer: fan of Barcelona.
 
----
+<!-- ---
 <table>
   <tr>
     <td>
@@ -38,5 +38,5 @@ I am **CChenyu**, currently a master student (MSc Robotics :robot:) in National 
       </a>
     </td>
   </tr>
-</table>
+</table> -->
 
