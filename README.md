@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am **CChenyu**, currently a master student (MSc Robotics :robot:) in National University of Singapore (NUS). Previously, I received my bachelor degree in Mechanical Engineering (2018~2022) from Xi'an Jiaotong University (XJTU).
+I am **CChenyu**, currently a Master's student in Robotics :robot: at the National University of Singapore (NUS). Previously, I received my bachelor degree in Mechanical Engineering (2018~2022) from Xi'an Jiaotong University (XJTU).
 
 - :seedling: I'm currently learning Robotics, Optimization Techniques, Autonomous Vehicles, and Artificial Intelligence.
 - :telescope: I am also interested in Computer Vision, Computer Graphics, and Computer Games :yum:.
